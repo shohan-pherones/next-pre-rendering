@@ -1,0 +1,87 @@
+{
+  "cosmetics": [
+    {
+      "id": 1,
+      "title": "Lipstick",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "title": "Mascara",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "title": "Perfume",
+      "price": 1000
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "title": "Lamborghini Aventador",
+      "speed": 500
+    },
+    {
+      "id": 2,
+      "title": "Bugatti Veyron",
+      "speed": 460
+    },
+    {
+      "id": 3,
+      "title": "Pagani Huyara",
+      "speed": 550
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "duration": "2 year"
+    },
+    {
+      "id": 2,
+      "title": "Cyber Security",
+      "duration": "6 months"
+    },
+    {
+      "id": 3,
+      "title": "Ethical Hacking",
+      "duration": "5 year"
+    }
+  ],
+  "frameworks": [
+    {
+      "id": 1,
+      "title": "Bootstrap",
+      "core": "CSS"
+    },
+    {
+      "id": 2,
+      "title": "Next.js",
+      "core": "React.js"
+    },
+    {
+      "id": 3,
+      "title": "Vue.js",
+      "core": "JavaScript"
+    }
+  ],
+  "libraries": [
+    {
+      "id": 1,
+      "title": "React.js",
+      "core": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "GSAP",
+      "core": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "THREE.js",
+      "core": "JavaScript"
+    }
+  ]
+}
